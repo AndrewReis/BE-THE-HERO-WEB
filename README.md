@@ -1,79 +1,55 @@
-# BACKEND
+<h1 align="center">
+    <a href="https://pt-br.reactjs.org/">🔗 BE-THE-HERO</a>
+</h1>
+<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-## Tecnologias:
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-### Express
-### Knex.js
-### Nodemon
-### Cors 
-### Crypto
+<h4 align="center"> 
+	🚧  Projeto finalizado....  🚧
+</h4>
 
+### 🛠 Tecnologias
 
-# Banco de Dados Relacional utilizando Knex.js
-## SQLite3
+As seguintes ferramentas foram usadas na construção do projeto:
 
-# Estrategias
-
-### Foi escolhido o SQLite3 por ser um banco mais leve. Contudo, ele atende nossa necessidade de armazenar os dados
-
-### Com o knex é possivel usar as migrations e com mais facilidade podemos mudar o SGBD do nosso backend. Poís não precisarei criar SQL de forma tradicional, mas sim usando a sintaxe do JavaScript.
-
-### Biblioteca crypto para gerar o id das ongs. Desta forma será gerado 4 bytes de caracteres hexadecimais (Assim deixará a ong mais segura na hora de logar).
-
-### Para criar as rotas foi usado o software INSOMNIA.
-
-# Padrão MVC e REST
-
-## Abstrair do arquivo ROUTE toda a logica de cadastrar e listar as ONG´s e Incidents. A logica está na pasta controllers.
-
-## Criamos uma API RESTFUL utilizando a semantica dos metodos HTTP.
-
-
-# FRONTEND
-
-## Sistema de rotas feito com react-router-dom
-
-## Cliente HTTP escolhido para fazer a chamada da API do backend foi o AXIOS.
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 
 
+### Pré-requisitos
 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+### 🎲 Rodando o Back End (servidor)
 
+```bash
+# Clone este repositório
+$ git clone <https://github.com/>
 
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
 
+# Vá para a pasta server
+$ cd server
 
+# Instale as dependências
+$ npm install
 
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
