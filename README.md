@@ -1,7 +1,7 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 BE-THE-HERO</a>
+    <a href="https://pt-br.reactjs.org/">🦸 BE-THE-HERO 🦸🏾‍♂️</a>
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🐶 Projeto criado para ONG´s ajudarem animais machucados ou perdidos.</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -13,43 +13,70 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Projeto finalizado....  🚧
+	🚀  Projeto finalizado.  🚀
 </h4>
 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [ReactJS](https://pt-br.reactjs.org/)
 
+### Features
 
+- [x] Cadastro de ONG
+- [x] Cadastrar nova ocorrência
+- [x] Listar Casos
 
-### Pré-requisitos
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+
+### ❗ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 💡 Clonando Repositório
 
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd be-the-hero
+```
 
-# Vá para a pasta server
-$ cd server
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+
+# Vá para a pasta backend
+$ cd backend
 
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação
+$ npm start
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
+
+### 🎲 Rodando o Front End (web)
+
+```bash
+
+# Vá para a pasta frontend
+$ cd frontend
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
