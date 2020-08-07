@@ -5,7 +5,7 @@
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#features">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Clonar Repositório</a> • 
  <a href="#licenc-a">Autor</a> 
@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ReactJS](https://pt-br.reactjs.org/)
 
 ### Features
-
+<h1 id='features'> Features </h1>
 - [x] Cadastro de ONG
 - [x] Cadastrar nova ocorrência
 - [x] Listar Casos
