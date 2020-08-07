@@ -7,9 +7,9 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#licenc-a">Clonar Repositório</a> • 
+ <a href="#licenc-a">Autor</a> • 
+ <a href="#autor">Licença</a>
 </p>
 
 <h4 align="center"> 
