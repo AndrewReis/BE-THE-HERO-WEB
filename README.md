@@ -84,14 +84,12 @@ $ npm start
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/60078687?s=460&u=83742fab7b35f433986c6fbe25df935441b6a743&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Andrew Reis</b></sub></a> 🚀
 
 
 Feito com ❤️ por Andrew Reis 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Andrew?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](linkedin.com/in/andrew-reis) 
 
