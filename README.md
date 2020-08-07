@@ -8,8 +8,8 @@
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Clonar Repositório</a> • 
- <a href="#licenc-a">Autor</a> • 
-<a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a>
+ <a href="#licenc-a">Autor</a> 
+ <a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a>
 </p>
 
 <h4 align="center"> 
@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### ❗ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), algum gerenciador de pacotes: Npm ou [Yarn](https://yarnpkg.com/) 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 💡 Clonando Repositório
@@ -58,9 +58,13 @@ $ cd backend
 
 # Instale as dependências
 $ npm install
+   ou
+$ yarn install
 
 # Execute a aplicação
 $ npm start
+   ou
+$ yarn start
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
@@ -74,9 +78,13 @@ $ cd frontend
 
 # Instale as dependências
 $ npm install
+  ou
+$ yarn install
 
 # Execute a aplicação
 $ npm start
+   ou
+$ yarn start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
