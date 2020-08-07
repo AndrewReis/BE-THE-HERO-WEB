@@ -91,5 +91,5 @@ $ npm start
 
 Feito com ❤️ por Andrew Reis 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Andrew?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](linkedin.com/in/andrew-reis) 
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-reis/)](https://www.linkedin.com/in/andrew-reis/) 
 
