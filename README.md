@@ -9,7 +9,7 @@
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenc-a">Clonar Repositório</a> • 
  <a href="#licenc-a">Autor</a> • 
- <a href="#autor">Licença</a>
+<a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a>
 </p>
 
 <h4 align="center"> 
