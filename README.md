@@ -23,8 +23,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
 
-### Features
 <h1 id='features'> Features </h1>
+
 - [x] Cadastro de ONG
 - [x] Cadastrar nova ocorrência
 - [x] Listar Casos
