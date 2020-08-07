@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1>🦸 BE-THE-HERO 🦸🏾‍♂️</h1>
+    <h1 align="center">🦸 BE-THE-HERO 🦸🏾‍♂️</h1>
 </h1>
 <p align="center">🐶 Projeto criado para ONG´s ajudarem animais machucados ou perdidos.</p>
 
