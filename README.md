@@ -7,8 +7,8 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#features">Features</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Clonar Repositório</a> • 
- <a href="#licenc-a">Autor</a> 
+ <a href="#clone">Clonar Repositório</a> • 
+ <a href="#autor">Autor</a> 
  <a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a>
 </p>
 
@@ -16,7 +16,12 @@
 	🚀  Projeto finalizado.  🚀
 </h4>
 
-### 🛠 Tecnologias
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+
+
+<h1 id='tecnologias'> Tecnologias </h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -29,11 +34,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Cadastrar nova ocorrência
 - [x] Listar Casos
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
+---
 
-### ❗ Pré-requisitos
+<h1 id='clone'>❗ Pré-requisitos</h1>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), algum gerenciador de pacotes: Npm ou [Yarn](https://yarnpkg.com/) 
@@ -89,7 +92,10 @@ $ yarn start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-### Autor
+---
+
+<h1 id='autor'> Autor </h1>
+
 ---
 
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/60078687?s=460&u=83742fab7b35f433986c6fbe25df935441b6a743&v=4" width="100px;" alt=""/>
