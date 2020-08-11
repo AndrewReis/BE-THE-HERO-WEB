@@ -63,10 +63,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/>
+$ git clone <https://github.com/AndrewReis/BE-THE-HERO-WEB.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd be-the-hero
+$ cd be-the-hero-web
 ```
 
 ### 🎲 Rodando o Back End (servidor)
