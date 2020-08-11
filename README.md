@@ -17,7 +17,7 @@
 </h4>
 
 <h1 align="center">
-  <img alt="Banner" title="#Banner" src="./assets/banner.png" />
+  <img alt="Banner" title="#Banner" src="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/frontend/src/assets/public/bethehero.gif" />
 </h1>
 
 
