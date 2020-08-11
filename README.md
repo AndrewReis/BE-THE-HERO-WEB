@@ -31,7 +31,7 @@
 
 
 
-<h1 id='tecnologias'> Tecnologias </h1>
+<h1 id='tecnologias'> 🤖 Tecnologias </h1>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -42,7 +42,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-<h1 id='features'> Features </h1>
+<h1 id='features'> ✔️ Features </h1>
 
 - [x] Cadastro de ONG
 - [x] Cadastrar nova ocorrência
@@ -114,7 +114,7 @@ $ yarn start
 
 
 
-<h1 id='autor'> Autor </h1>
+<h1 id='autor'> 🙋🏽‍♂️ Autor </h1>
 
 ---
 
