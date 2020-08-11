@@ -17,12 +17,17 @@
 </h4>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+  <img alt="Banner" title="#Banner" src="./assets/banner.png" />
 </h1>
 
 
 
+<h1 id='objetivo'> 🎯 Objetivo </h1>
 
+
+<p align="center">
+	Uma aplicação que vai conectar pessoas que tem vontade de ajudar, seja presencialmente ou de uma forma monetaria, A ONG´s , organizações sem fins lucrativos que muitas vezes precisam de um valor para tratar algum caso específico como: animais abandonados, cirurgias ou até mesmo encontrar um novo lar para esses animais.</p>
+	
 
 
 
@@ -32,6 +37,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
+
+
+
+
 
 <h1 id='features'> Features </h1>
 
@@ -45,7 +54,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1 id='clone'>❗ Pré-requisitos</h1>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), algum gerenciador de pacotes: Npm ou [Yarn](https://yarnpkg.com/) 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), e algum gerenciador de pacotes: Npm ou [Yarn](https://yarnpkg.com/) 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
