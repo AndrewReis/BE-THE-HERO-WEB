@@ -1,7 +1,7 @@
 <h1 align="center">
-    <h1 align="center">🦸 BE-THE-HERO 🦸🏾‍♂️</h1>
+    <h1 align="center"><img src="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/frontend/src/assets/logo.svg" alt="Be-The-Hero"/></h1>
 </h1>
-<p align="center">🐶 Projeto criado para ONG´s ajudarem animais machucados ou perdidos.</p>
+<p align="center">🐶 Conectar pessoas com vontade de ajudar à ONG´s, tratarem <strong>Animais</strong> que necessitam de ajuda. </p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
