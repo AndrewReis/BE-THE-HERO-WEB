@@ -4,13 +4,13 @@
 <p align="center">🐶 Conectar pessoas com vontade de ajudar à ONG´s, tratarem <strong>Animais</strong> que necessitam de ajuda. </p>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#features">Features</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#clone">Clonar Repositório</a> • 
+ <a href="#objetivo">Objetivo</a> 
+ <a href="#features">Features</a>  
+ <a href="#tecnologias">Tecnologias</a>  
+ <a href="#clone">Clonar Repositório</a> 
  <a href="#autor">Autor</a> 
- <a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a>
 </p>
+<p  align="center"><a href="https://github.com/AndrewReis/BE-THE-HERO-WEB/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/AndrewReis/BE-THE-HERO-WEB"></a></p>
 
 <h4 align="center"> 
 	🚀  Projeto finalizado.  🚀
